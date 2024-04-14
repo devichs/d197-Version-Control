@@ -1,0 +1,12 @@
+•   summarize how the merge conflict in part E1 was resolved
+
+From part E1, the confilict between the two Branches resulted as the one Readme.md file was updated in both branches and then the working branch was merged into the Test branch. 
+This resulted in the merge conflict.  This conflict was resolved by opening the Readme.md file in a text editor, witnessing the merge conflict indicators, 
+removing those indicators and then updating the file with the final updates. 
+
+•   describe the three changes that you made in part C1
+
+The three changes in step C1 were: 
+	1. about.html was updated at the first <p> element with different text.
+	2. contact.html was also updated at the first <p> element with different text.
+	3. customers.html was updated at the first <p> element with different text.

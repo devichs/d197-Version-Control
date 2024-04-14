@@ -1,0 +1,60 @@
+commit c7df47905c01d423b5ca3480197f0e4ed3a505d4
+Author: Steffen Devich <sdevich@wgu.edu>
+Date:   Sun Apr 14 22:00:33 2024 +0000
+
+    Add new file
+
+commit d66c64e9abbfca2aad79574090657317bd220618
+Author: Steffen Devich <sdevich@wgu.edu>
+Date:   Sun Apr 14 21:59:02 2024 +0000
+
+    Add new directory
+
+commit 53864dd3755c465bcb02378055c44e31f7a96162
+Merge: dddbb74 f481d5c
+Author: Steffen Devich <devichs4@gmail.com>
+Date:   Sun Apr 14 16:46:21 2024 -0500
+
+    Resolved the merge conflict by incorporating both updates into the Readme.md file.
+
+commit dddbb749a12e0f71f460bbfb24e093b5dcd27d8e
+Author: Steffen Devich <devichs4@gmail.com>
+Date:   Sun Apr 14 16:41:59 2024 -0500
+
+    Modified the readme.md of Working with git version number.
+
+commit f481d5cf5acb4078fd66f45c8c850068553baf35
+Author: Steffen Devich <devichs4@gmail.com>
+Date:   Sun Apr 14 16:32:56 2024 -0500
+
+    Modifed the Readme.md of the Test Branch.
+
+commit ee656638a2b5ac48e60cfc05456ef220da8c64bf
+Author: Steffen Devich <devichs4@gmail.com>
+Date:   Sun Apr 14 16:24:11 2024 -0500
+
+    Modified customers.html.  This will be the third file update.
+
+commit b1e85eedb6911abcb2de666ef4d113ac78537998
+Author: Steffen Devich <devichs4@gmail.com>
+Date:   Sun Apr 14 16:18:15 2024 -0500
+
+    Modified about.html.  This is the first change.
+
+commit 7efae93f995a32c5fa5415736c08f214ed034eb0
+Author: Steffen Devich <devichs4@gmail.com>
+Date:   Sun Apr 14 16:02:11 2024 -0500
+
+    Modified contact.html.  This is the second change.
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
