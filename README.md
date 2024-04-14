@@ -1,4 +1,8 @@
+#Keeping both changes and resolving the merge conflict
 #git version 2.32.0.windows.1
+
+#Student ID: 005643564
+
 
 # D197 Version Control
 
